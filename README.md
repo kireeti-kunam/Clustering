@@ -14,4 +14,4 @@
  - By using connceted components and random walk we represented eah node which are movie or actor node in our dataset we taken maximum length of 100.
  - Now by using word2vec we represented each node such as movie and actor node in 128 dimenssion vector/embedding.
  - we visualized this data in 2d by using t-sne (Dimenssionality reduction)
- - We applied clustering algorith on actor nodes and movie nnodes.
+ - We applied clustering algorith on actor nodes and movie nnodes. To choose optimal number of clusters we defined our own custom metrics.
